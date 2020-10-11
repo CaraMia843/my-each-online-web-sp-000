@@ -6,5 +6,6 @@ def my_each(array)
       counter = counter += 1 
      end
   else
+    "No block was given."
   end
 end
